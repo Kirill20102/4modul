@@ -1,0 +1,42 @@
+body {
+    font-family: sans-serif;
+}
+header{
+    background-color: rgb(203, 240, 255) ;
+    border: 2px solid lightblue ;
+    border-radius: 10px ;
+}
+header img{
+    margin: 10px;
+}
+main h1{
+    color: rgb(162, 50, 196);
+    text-align: center;
+}
+footer{
+    border: 2px solid rgb(177, 175, 175);
+    border-radius: 10px;
+
+}
+footer p{
+    border: 2px solid rgb(177, 175, 175);
+}
+nav{
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid rgb(107, 204, 241); 
+}
+nav a{
+    text-decoration: none;
+}
+.shedevrotovari{
+    color: white;
+    background-color: white;
+    border: 2px solid blue;
+}
+.iygedoctalcy{
+    color: rgb(46, 46, 233);
+}
+.ixochydomoy{
+    color: black;
+}
